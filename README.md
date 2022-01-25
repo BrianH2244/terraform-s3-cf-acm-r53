@@ -2,4 +2,4 @@
 
 Static Hosting with AWS S3, Cloudfront, ACM and Route 53
 
-- Used Terraform to deploy website and orchestrate resources in AWS
+- Used Terraform to set up a website and infrastructure resources in AWS
